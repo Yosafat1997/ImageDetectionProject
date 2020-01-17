@@ -1,0 +1,44 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="PACKAGE_FILTER" value="tensorb&#10;tensorflow&#10;numpy&#10;apache&#10;ssl" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="E:/Anaconda3/python.exe&#10;E:/Users/YOSAFAT VINCENT S/Documents/GitHub/ImageDetectionProject&#10;E:/Users/YOSAFAT VINCENT S/Documents/GitHub/data-composer&#10;E:/Anaconda3/Scripts/conda.exe&#10;E:/Anaconda3/Scripts/conda-env.exe&#10;E:/Users/YOSAFAT VINCENT S/Documents/GitHub/Python-Naval-Battle&#10;D:/Users/YOSAFAT VINCENT S&#10;E:/Users/YOSAFAT VINCENT S/project/EKGReader/venv/Scripts/python.exe&#10;E:/Users/YOSAFAT VINCENT S/project/EKGReader/venv&#10;C:/Users/YOSAFAT VINCENT S/PycharmProjects/Aircraft Detection/venv" />
+    <property name="file.gist.reindex.count" value="994697" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="lastTip" value="11" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\YOSAFAT VINCENT S\PycharmProjects\Aircraft Detection\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\Anaconda3\envs\Python-Naval-Battle\python.exe" value="false" />
+        <entry key="E:\Anaconda3\python.exe" value="true" />
+        <entry key="E:\Users\YOSAFAT VINCENT S\project\EKGReader\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\YOSAFAT VINCENT S\PycharmProjects\Aircraft Detection\venv\Scripts\python.exe" value="false" />
+        <entry key="E:\Anaconda3\envs\Python-Naval-Battle\python.exe" value="false" />
+        <entry key="E:\Anaconda3\python.exe" value="true" />
+        <entry key="E:\Users\YOSAFAT VINCENT S\project\EKGReader\venv\Scripts\python.exe" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="E:\Anaconda3\envs\Python-Naval-Battle\python.exe" value="false" />
+        <entry key="E:\Anaconda3\python.exe" value="false" />
+        <entry key="E:\Users\YOSAFAT VINCENT S\project\EKGReader\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
